@@ -7,9 +7,10 @@
 
 RMSE: 0.0389222 rad/s
 
-
+### 观测点和拟合曲线
 ![观测点和拟合曲线](./fit_comparison.png)
-x轴单位: s, y轴单位: rad/s
+x轴单位: s, y轴单位: rad/s y轴[0,2]
 
+### 残差图
 ![残差图](./residuals.png)
-x轴单位: s, y轴单位: rad/s
+x轴单位: s, y轴单位: rad/s y轴[-0.2,0.2]
