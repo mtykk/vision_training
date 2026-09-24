@@ -19,4 +19,4 @@
     - 选择了闭运算后的红色掩膜进行轮廓提取
 
 ## Task2 参数拟合
-![Task2](result/task2_fit/task2_fit_result.md)
+[Task2](result/task2_fit/task2_fit_result.md)
