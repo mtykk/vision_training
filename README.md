@@ -20,3 +20,25 @@
 
 ## Task2 参数拟合
 [Task2](result/task2_fit/task2_fit_result.md)
+
+---
+
+## 运行
+
+环境:  
+- OpenCV 4.5.4
+- Eigen 3.4.0
+- ceres 2.0.0
+
+---
+
+```bash
+cmake -S . -b build && cmake --build build
+./build/task1_image #结果将输出至 ./result/task1_images/
+./build/task2_fit #结果将输出至 ./result/task2_fit/
+```
+
+---
+
+任务1输出 [task1_images](./result/task1_images/)  
+任务2输出 [task2_fit](./result/task2_fit/)
